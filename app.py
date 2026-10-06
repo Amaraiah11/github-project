@@ -24,7 +24,8 @@ if st.button("Explain this repository", type="primary"):
         if resp.status_code == 200:
             data = resp.json()
             st.success(f"Done: {data['repo_name']}")
-            st.markdown(data["explanation"])
+            text = data["explanation"].replace("•", "-").replace("\n", "\n\n")
+            st.markdown(text)
             with st.expander("Files analyzed"):
                 for f in data["files_analyzed"]:
                     st.write(f"- `{f}`")
