@@ -1,7 +1,7 @@
 # 🔍 Local GitHub Code Explainer — Automated Git Parsing, AST Filtering & LLM Analysis
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=Local%20GitHub%20Code%20Explainer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Automated%20Git%20Repo%20Parsing%2C%20AST%20Filtering%20%26%20LLM%20Code%20Analysis&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Local GitHub Code Explainer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=Local%20GitHub%20Code%20Explainer&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Automated%20Git%20Repo%20Parsing%2C%20AST%20Filtering%20%26%20LLM%20Code%20Analysis&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Local GitHub Code Explainer Banner" />
 </p>
 
 <p align="center">
@@ -195,5 +195,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&customColorList=0F172A,2563EB,38BDF8&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
